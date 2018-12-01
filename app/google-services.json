@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "755299602602",
+    "firebase_url": "https://localhackday-kano.firebaseio.com",
+    "project_id": "localhackday-kano",
+    "storage_bucket": "localhackday-kano.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755299602602:android:ed704b74c9aace25",
+        "android_client_info": {
+          "package_name": "org.enovatelab.localhackdaykano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755299602602-uvv9njjcifn8s8th1r4pe8ui1aqrm149.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.enovatelab.localhackdaykano",
+            "certificate_hash": "1af25ecdce7e186e32b71ae1ae3e7d45ae6e10bd"
+          }
+        },
+        {
+          "client_id": "755299602602-1tpki96nhhd1cgr5qteu7huank2qlh0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfiy1LiFQOjvZYmOwN2doOvmHrB370v3E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755299602602-1tpki96nhhd1cgr5qteu7huank2qlh0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
